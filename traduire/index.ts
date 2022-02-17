@@ -2,7 +2,7 @@ import DiscordJS, { Intents, Message } from "discord.js";
 import dotenv from "dotenv";
 import axios from "axios";
 
-const deepLAPI = "YOUR_API_KEY_HERE";
+const deepLAPI = "YOUR_DEEPL_API_KEY_HERE";
 const deepLEP = "https://api-free.deepl.com/v2/translate";
 
 dotenv.config();
