@@ -41,6 +41,7 @@ client.on("ready", () => {
 
 const flagMapObj: { [key: string]: any } = {
   "🇺🇸": "EN",
+  "🇬🇧": "EN",
   "🇪🇸": "ES",
   "🇫🇷": "FR",
   "🇧🇬": "BG",
